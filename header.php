@@ -55,6 +55,9 @@
                         <a class="nav-link" href="events.php">Events</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="create_event.php">Create Event</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="profile.php">Profile</a>
                     </li>
                     <li class="nav-item">
